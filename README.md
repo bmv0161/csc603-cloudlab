@@ -1,1 +1,1 @@
-# csc603-cloudlab
+# csc603cloud
